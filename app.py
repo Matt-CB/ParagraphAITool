@@ -62,6 +62,8 @@ class WebContentSummarizerApp:
         The text is as follows:
 
         text: {input}
+
+        Make sure the text is only one paragraph
         """
 
         llm = OpenAI(temperature=0, openai_api_key=OPENAI_API_KEY)
