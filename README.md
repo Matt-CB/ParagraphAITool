@@ -1,6 +1,6 @@
 # ParagraphAITool - A Web Application for Web Page Summarization
 
-#### __If you want to use the application directly, you can access this link where the program is deployed__ [Web link](Pronto)
+#### __If you want to use the application directly, you can access this link where the program is deployed__ [Web link](https://huggingface.co/spaces/Matt-CB/ParagraphAITool)
 
 
 ## Introduction
