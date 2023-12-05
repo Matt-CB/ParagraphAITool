@@ -8,7 +8,7 @@ from langchain import PromptTemplate, OpenAI, LLMChain
 custom_css = """
 <style>
 .title-text {
-    color: #0077B6;  /* Cambia el color del subtítulo a un azul más claro */
+    color: #0077B6;
 }
 </style>
 """
